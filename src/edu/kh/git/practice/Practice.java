@@ -6,7 +6,8 @@ public class Practice {
 		// TODO Auto-generated method stub
 System.out.println("연습용");
 System.out.println("1");
-System.out.println("2");
+
+System.out.println("새로추가");
 	}
 
 }
